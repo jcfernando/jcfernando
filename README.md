@@ -1,4 +1,3 @@
-### Hello! 
+### Hello, I'm jcfernando! 
 
-
-sleep-deprived software engineer currently working at [White Cloak Technologies Inc.](https://www.whitecloak.com/)
+a sleep-deprived developer currently working at [White Cloak Technologies Inc.](https://www.whitecloak.com/) as a frontend engineer
